@@ -1,0 +1,15 @@
+.container{
+    
+    background: rgb(235, 202, 17);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+   
+}
+
+h2{
+    color: rgb(231, 69, 19);
+}
+
+ 
+ 
